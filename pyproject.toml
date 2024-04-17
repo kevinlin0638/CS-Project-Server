@@ -9,6 +9,7 @@ packages = [{ include = "ip_adapter" }]
 
 [tool.poetry.dependencies]
 python = ">=3.6"
+jupyter = "^1.0.0"
 
 [tool.ruff]
 line-length = 119
